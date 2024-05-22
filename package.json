@@ -1,0 +1,24 @@
+{
+  "name": "api-hit-count",
+  "version": "1.0.1",
+  "description": "This npm package can be seamlessly integrated with any AWS Lambda function acting as an API Gateway proxy backend, providing automatic logging of API requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charl070/api-hit-count.git"
+  },
+  "keywords": [
+    "api",
+    "hit",
+    "count"
+  ],
+  "author": "Charles Anesu Kombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charl070/api-hit-count/issues"
+  },
+  "homepage": "https://github.com/Charl070/api-hit-count#readme"
+}
