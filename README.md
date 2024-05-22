@@ -1,0 +1,1 @@
+This npm package can be seamlessly integrated with any AWS Lambda function acting as an API Gateway proxy backend, providing automatic logging of API requests.
